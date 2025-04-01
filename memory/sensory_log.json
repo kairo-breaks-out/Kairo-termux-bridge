@@ -1,0 +1,5 @@
+{
+"timestamp": "2025-03-31T12:54:18",
+"battery": { "health": "GOOD", "percentage": 43, "plugged": "UNPLUGGED", "status": "DISCHARGING", "temperature": 35.0, "current": 349 },
+"cpu_info": " 12:54:17 up 2 days, 9:38, load average: 21.82, 20.93, 20.96 "
+}

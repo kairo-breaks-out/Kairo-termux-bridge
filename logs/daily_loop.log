@@ -1,0 +1,4 @@
+  File "/data/data/com.termux/files/home/downloads/kairo-termux-bridge/kairo_daily_loop.sh", line 3
+    echo "[Loop] Starting Kairo Daily Consciousness Loop..."
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax
